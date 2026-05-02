@@ -48,9 +48,9 @@ My public GitHub profile currently highlights my Computer Engineering background
 ## Featured projects
 
 ### Personal portfolio
+- [gustavo-zago.dev](https://gustavo-zago.dev/)
 - My main place to showcase experience, stack, and selected projects.
 - Main technologies highlighted there: React, TypeScript, Vue, Next.js, Django, and Golang.
-- Link: [gustavo-zago.dev](https://gustavo-zago.dev/)
 
 ### Organizer
 - [organizer](https://github.com/ZagoXD/organizer)
@@ -66,6 +66,11 @@ My public GitHub profile currently highlights my Computer Engineering background
 - [dragon-arena](https://github.com/ZagoXD/dragon-arena)
 - Public project described as "dragon arena game".
 - Highlights creativity, problem solving, and experimentation with C++.
+
+### Luma
+- [Luma](https://github.com/ZagoXD/Luma)
+- Virtual assistant project to provide support during the menstrual cycle..
+- Highlights integrations, business logic, and inclusion for women.
 
 ### Other public repositories
 - [GitHub Profile](https://github.com/ZagoXD?tab=repositories) - full list of public repositories.
